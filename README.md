@@ -21,7 +21,7 @@ on time aid.
 
 That sums up SafeWeg!
 
-[our designs](https://www.figma.com/file/Na8dbpS0k1Vp8LdCeET3S7/Untitled?node-id=0%3A1)
-[our presentation](https://docs.google.com/presentation/d/1TSaf0B0FMfkfQNnNX9yYH-Hu3JlRtJgM3PO1yHkGe1I/edit?usp=sharing)
-[demo video presentation](https://youtu.be/vfPoIieN1Xc)
-[APK File](https://drive.google.com/file/d/168-DR4IAq69GY3Y-IZlrpcy3xPmJth_X/view?usp=sharing)
+1)[our designs](https://www.figma.com/file/Na8dbpS0k1Vp8LdCeET3S7/Untitled?node-id=0%3A1)
+2)[our presentation](https://docs.google.com/presentation/d/1TSaf0B0FMfkfQNnNX9yYH-Hu3JlRtJgM3PO1yHkGe1I/edit?usp=sharing)
+3)[demo video presentation](https://youtu.be/vfPoIieN1Xc)
+4)[APK File](https://drive.google.com/file/d/168-DR4IAq69GY3Y-IZlrpcy3xPmJth_X/view?usp=sharing)
